@@ -1,0 +1,17 @@
+.summary-item{
+    text-align: center;
+    background-color: #effcf5;
+    border-radius: 5px;
+    padding:8px 0;
+    margin-bottom: 12px;
+    max-width: 80%;
+    border-left: 5px solid;
+}
+.summary-item h2{
+    font-weight: bold;
+    font-size: 26px;
+    margin: 0;
+}
+.ant-card{
+    min-height: 310px;
+}

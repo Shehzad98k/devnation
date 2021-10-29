@@ -1,0 +1,13 @@
+.site-calendar-demo-card {
+    width: 300px;
+    border-radius: 2px;
+  }
+  .ant-picker-calendar-mini .ant-picker-content{
+      height: auto !important;
+  }
+  .ant-card-body{
+      padding: 0 22px;
+  }
+  .ant-card{
+      min-height: 310px;
+  }
